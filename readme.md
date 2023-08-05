@@ -1,6 +1,5 @@
-<h3>translate</h3>
-<p>build a google translate form web scraping form google page</p>
+# Translator
+build a translator app by web scraping in translate.google
 
-<p>This project failed</p>
-<p>--> because I could not read from the Google page</p>
-<p>help me :(</p>
+## status
+scrapping...
